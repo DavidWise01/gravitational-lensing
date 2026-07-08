@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 550
+slug  : gravitational-lensing
+seal  : d420cce5187bb914c30ce25e38482db35859f3e9ceced0d2adc01e860f55c204
+prev  : 672c4dcdb30a28f6e62fa1e115b180a5de63660f1822955f9b90953c31a34d35
+link  : 24d2464e454fe305e728920ce9eac4036504f20c4dd5c3852209bfcd8f325f19
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
